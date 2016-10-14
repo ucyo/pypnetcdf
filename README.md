@@ -1,0 +1,3 @@
+PyPNetCDF is a Numeric-based Python package that allows read and/or write to NetCDF file in a parallel environment using MPI and an interface created to PnetCDF library. The objects are very similar to Konrad Hinsen's definitions but in a parallel way.
+
+**Since it seems that the [original project at Sourceforge](https://sourceforge.net/projects/pypnetcdf/) is not being curated, I imported the package to GitHub.**
